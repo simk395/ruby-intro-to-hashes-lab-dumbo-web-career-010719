@@ -1,5 +1,5 @@
 def new_hash
-  hash = {yordle:{}}
+  hash = {}
 end
 
 def actor
