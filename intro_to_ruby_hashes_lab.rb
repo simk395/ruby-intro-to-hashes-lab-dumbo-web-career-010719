@@ -1,9 +1,9 @@
 def new_hash
-
+  yordle:{}
 end
 
 def actor
-
+ name:"Dwayne The Rock Johnson"
 end
 
 def monopoly
